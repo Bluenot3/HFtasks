@@ -11,7 +11,7 @@ from report_generator import (
 import cohere
 
 # Initialize the Cohere client using your provided API key.
-COHERE_API_KEY = "ffwtfyfLwqSOtw65psZardfqhUxMr1h7u5vzYotI"
+COHERE_API_KEY = "COHORE_API_KEY"
 co = cohere.Client(COHERE_API_KEY)
 
 # Define labeled examples for classification as dictionaries.
